@@ -1,19 +1,27 @@
-<h1>Hi, I'm Dylan, an <a href="https://www.linkedin.com/in/dylan-corr-9903aa175/">IT Professional</a>☺</h1>
+<h1 align="center">Hi, I'm Dylan  an <a href="https://www.linkedin.com/in/dylan-corr-9903aa175/" target="_blank">IT Professional</a> 👋</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<hr/>
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DylanCorr2020/Active-Directory-Lab)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DylanCorr2020/azure-network-protocols-NSG)
-  - [Network-File-Shares-and-Permissions](https://github.com/DylanCorr2020/Network-File-Shares-and-Permissions)
+<h2>💻 Information Technology Projects</h2>
 
+<h3>🌐 Microsoft Azure</h3>
+<ul>
+  <li><a href="https://github.com/DylanCorr2020/Active-Directory-Lab" target="_blank"><b>Configuring On-Premises Active Directory within Azure VMs</b></a></li>
+  <li><a href="https://github.com/DylanCorr2020/azure-network-protocols-NSG" target="_blank"><b>Network Security Groups (NSGs) and Inspecting Network Protocols</b></a></li>
+  <li><a href="https://github.com/DylanCorr2020/Network-File-Shares-and-Permissions" target="_blank"><b>Network File Shares and Permissions</b></a></li>
+</ul>
 
-<h2>👨‍💻 AWS Projects:</h2>
+<h3>☁️ AWS Projects</h3>
+<ul>
+  <li>Coming soon...</li>
+</ul>
 
-<h2>🤳Connect with me:</h2>
+<hr/>
 
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/dylan-corr-9903aa175/
+<h2>🤝 Connect with Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/dylan-corr-9903aa175/" target="_blank">
+    <img align="left" alt="Dylan Corr | LinkedIn" width="28px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/dylan-corr-9903aa175/" target="_blank">LinkedIn Profile</a>
+</p>
