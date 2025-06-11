@@ -16,6 +16,16 @@
   <li>Coming soon...</li>
 </ul>
 
+<h3>🎓 College Projects</h3>
+<ul>
+  <li><a href="https://github.com/DylanCorr2020/FinalYearProject" target="_blank"><b>Final Year Project</b></a></li>
+  <li><a href="https://github.com/DylanCorr2020/Theory-Of-Algorithms" target="_blank"><b>Theory of Algorithms</b></a></li>
+  <li><a href="https://github.com/DylanCorr2020/DatabaseProject" target="_blank"><b>Database Project</b></a></li>
+</ul>
+
+<hr/>
+
+
 <hr/>
 
 <h2>🤝 Connect with Me</h2>
