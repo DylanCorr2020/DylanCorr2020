@@ -13,7 +13,9 @@
 
 <h3>☁️ AWS Projects</h3>
 <ul>
-  <li>Coming soon...</li>
+  <li>
+     <a href="https://github.com/DylanCorr2020/Identity-Access-Management-Terraform" target="_blank"><b>Identity Access Management Project</b></a></li>
+  </li>
 </ul>
 
 <h3>🎓 College Projects</h3>
