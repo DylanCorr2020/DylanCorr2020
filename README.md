@@ -15,6 +15,8 @@
 <ul>
   <li>
      <a href="https://github.com/DylanCorr2020/Identity-Access-Management-Terraform" target="_blank"><b>Identity Access Management Project</b></a></li>
+     <a href="https://github.com/DylanCorr2020/text-to-speech" target="_blank"><b>Serverless Text-to-Speech Cloud Application</b></a></li>
+    <a href="https://github.com/DylanCorr2020/aws-wordpress-infra-cdk" target="_blank"><b>Secure WordPress Deployment on AWS (Infrastructure as Code)</b></a></li>
   </li>
 </ul>
 
